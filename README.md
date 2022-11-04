@@ -19,19 +19,15 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-# Foobar
 
-Foobar is a Python library for dealing with word pluralization.
 
-## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+# Readme file
 
-```bash
-pip install foobar
-```
+Readme file edited with markdown, testing md features.
 
-## Usage
+
+## Code format
 
 ```python
 import foobar
@@ -46,13 +42,18 @@ foobar.pluralize('goose')
 foobar.singularize('phenomena')
 ```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+# TITLE1
+## TITLE2
+### TITLE3
+Adding a # symbol at the begining, you can get different title formats 
 
-Please make sure to update tests as appropriate.
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Reference
+https://www.makeareadme.com/
 
 
 
